@@ -1,0 +1,4 @@
+/snap/clion/175/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/175/bin/ninja/linux/ninja -G Ninja /home/bananus/Downloads/AVS_HOMEWORK_5-main/Alenov_BSE204_AVS_5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bananus/Downloads/AVS_HOMEWORK_5-main/Alenov_BSE204_AVS_5/cmake-build-debug

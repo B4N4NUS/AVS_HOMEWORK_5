@@ -1,0 +1,3 @@
+/home/bananus/Downloads/AVS_HOMEWORK_5-main/Alenov_BSE204_AVS_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bananus/Downloads/AVS_HOMEWORK_5-main/Alenov_BSE204_AVS_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bananus/Downloads/AVS_HOMEWORK_5-main/Alenov_BSE204_AVS_5/cmake-build-debug/CMakeFiles/Alenov_BSE204_AVS_5.dir
